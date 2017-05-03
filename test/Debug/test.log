@@ -1,0 +1,26 @@
+﻿  main.cpp
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(58): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(98): warning C4305: '=' : truncation from 'double' to 'float'
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(110): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(110): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(111): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(111): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(198): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(199): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(237): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(261): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(262): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(315): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(318): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\test\main.cpp(319): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  cv_yuv_codebook.cpp
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  test.vcxproj -> C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\test.exe

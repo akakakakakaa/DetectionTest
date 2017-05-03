@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(34): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(38): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(53): warning C4018: '<' : signed/unsigned mismatch
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(55): warning C4018: '<' : signed/unsigned mismatch
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(149): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(150): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(229): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(241): warning C4018: '<' : signed/unsigned mismatch
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(249): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(249): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(249): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(249): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\opticalflowtest\main.cpp(260): warning C4018: '<' : signed/unsigned mismatch
+  opticalFlowTest.vcxproj -> C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\opticalFlowTest.exe

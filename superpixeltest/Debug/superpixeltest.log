@@ -1,0 +1,24 @@
+﻿  slic.cpp
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(454): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(455): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(505): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(506): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(527): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(530): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(566): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(567): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(568): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(573): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(579): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(643): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(777): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(791) : see declaration of '_splitpath'
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(934): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(988): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(1039): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+c:\users\mansu\documents\visual studio 2010\projects\test\superpixeltest\slic.cpp(1098): warning C4715: 'SLIC::GetImgWithContours' : not all control paths return a value
+     Creating library C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\superpixeltest.lib and object C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\superpixeltest.exp
+     Creating library C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\superpixeltest.lib and object C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\superpixeltest.exp
+  superpixeltest.vcxproj -> C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\superpixeltest.exe

@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(51): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(56): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(75): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(75): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(123): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(189): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(190): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(201): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(202): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(203): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(204): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(187): warning C4101: 'x_diff' : unreferenced local variable
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\detector.h(188): warning C4101: 'y_diff' : unreferenced local variable
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\main.cpp(13): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\main.cpp(14): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\main.cpp(18): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\users\mansu\documents\visual studio 2010\projects\test\detectiontest\main.cpp(20): warning C4305: 'initializing' : truncation from 'double' to 'float'
+  DetectionTest.vcxproj -> C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\DetectionTest.exe

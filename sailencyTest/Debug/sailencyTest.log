@@ -1,0 +1,52 @@
+﻿  SLIC.cpp
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(340): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(341): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(392): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(393): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(414): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(417): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(457): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(458): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(459): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(484): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(488): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(491): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(551): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(552): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(553): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(554): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(689): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(690): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(691): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(692): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(693): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(694): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(1127): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(1168): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(1202): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\superpixel\slic.cpp(1245): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+  PreGraph.cpp
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(186): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(187): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(189): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(191): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(197): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(198): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(200): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(202): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(211): warning C4018: '<' : signed/unsigned mismatch
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(213): warning C4018: '<' : signed/unsigned mismatch
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(215): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(216): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(218): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(220): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mansu\documents\visual studio 2010\projects\test\sailencytest\pregraph.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+  main.cpp
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  sailencyTest.vcxproj -> C:\Users\Mansu\documents\visual studio 2010\Projects\test\Debug\sailencyTest.exe
